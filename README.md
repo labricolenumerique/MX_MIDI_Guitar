@@ -22,6 +22,9 @@
 Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fournit une référence visuelle pour le câblage des composants.
 
 * Câblage de l'[accéléromètre à trois axes](https://learn.adafruit.com/mx-midi-guitar/install-the-lis3dh)
+* Câblage de l'[interrupteur à 8 voies]( https://learn.adafruit.com/mx-midi-guitar/wiring-8-way-switch)
+* Câblage des [potentiomètres](https://learn.adafruit.com/mx-midi-guitar/wiring-pots)
+* Câblage des [commutateurs](https://learn.adafruit.com/mx-midi-guitar/wiring-toggle-switches)
 * Câblage des [touches MX](https://learn.adafruit.com/mx-midi-guitar/wiring-mx-switches)
 
 ### Assemblage des éléments
