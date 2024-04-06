@@ -29,6 +29,8 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ### Assemblage des éléments
 
+ * [Assemblage du Strum](https://learn.adafruit.com/mx-midi-guitar/strum-assembly)
+ * [Assemblage du Whammy](https://learn.adafruit.com/mx-midi-guitar/whammy-assembly)
  * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
  * [Assemblage du bandeau LED](https://learn.adafruit.com/mx-midi-guitar/strip-assembly)
  * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
