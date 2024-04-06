@@ -75,7 +75,7 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ### Code
 
-[Dépôt Git](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
+Le [dépôt GitHub](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/) contient le programme utilisé.
 
 **Etapes**
   * Brancher la carte **Grand Central M4 Express** au PC
