@@ -21,10 +21,9 @@
 
 Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fournit une référence visuelle pour le câblage des composants.
 
- * Item 1
-
 ### Assemblage des éléments
 
+ * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
  * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
 ## Programmation
