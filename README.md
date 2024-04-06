@@ -29,11 +29,17 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ### Assemblage des éléments
 
- * [Assemblage du Strum](https://learn.adafruit.com/mx-midi-guitar/strum-assembly)
- * [Assemblage du Whammy](https://learn.adafruit.com/mx-midi-guitar/whammy-assembly)
- * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
- * [Assemblage du bandeau LED](https://learn.adafruit.com/mx-midi-guitar/strip-assembly)
- * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
+ * Tête du manche
+   * [Assemblage de la tête du manche](https://learn.adafruit.com/mx-midi-guitar/neck-head-assembly)
+   * [Assemblage de la façade de la tête du manche](https://learn.adafruit.com/mx-midi-guitar/head-cover-assembly)
+   * [Assemblage du bandeau LED](https://learn.adafruit.com/mx-midi-guitar/strip-assembly)
+ * Caisse
+   * [Assemblage de la caisse](https://learn.adafruit.com/mx-midi-guitar/body-assembly)
+   * [Assemblage de la caisse](https://learn.adafruit.com/mx-midi-guitar/body-assembly)
+   * [Assemblage du Strum](https://learn.adafruit.com/mx-midi-guitar/strum-assembly)
+   * [Assemblage du Whammy](https://learn.adafruit.com/mx-midi-guitar/whammy-assembly)
+   * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
+   * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
  * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
 ## Programmation
