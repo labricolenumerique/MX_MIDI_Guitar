@@ -20,7 +20,6 @@ Inspiré par le tristement célèbre contrôleur Guitar Hero, ce projet transfor
   * @adafruit: [MIDI Guitar #3DPrinting](https://www.youtube.com/watch?v=BDwOBYsL71Q)
   * @BlitzCityDIY: [MIDI Guitar 🎸](https://www.youtube.com/watch?v=q6v2C1idLWU)
 
-https://cdn-learn.adafruit.com/assets/assets/000/089/544/thumb160/3d_printing_hero-controllers.jpg?1584538832
 ## Préparation
 
 ### Composants
