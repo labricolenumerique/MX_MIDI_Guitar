@@ -33,6 +33,7 @@ Inspiré par le tristement célèbre contrôleur Guitar Hero, ce projet transfor
  * Panel Mount 10K potentiometer
  * Mini Panel Mount SPDT Toggle Switch
  * Micro Switch w/Lever - 2 Terminal
+ * [Whammy bar](https://aliexpress.com/item/1005003362927804.html)
  * Panel Mount Extension USB Cable - Micro B Male to Micro B Female
  * USB A to Micro B Cable - 2 meter long
 
