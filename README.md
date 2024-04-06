@@ -58,6 +58,9 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ## Programmation
 
+  * Tutoriel de la carte Grand Central M4 Express: [Introducing the Adafruit Grand Central M4 Express](https://learn.adafruit.com/adafruit-grand-central)
+
+
 ### Code
 
   * [Dépôt Git](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
