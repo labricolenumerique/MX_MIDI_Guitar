@@ -92,4 +92,6 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ## Utilisation
 
- * Item 1
+ * Brancher le porte USB de la guitare sur un contrôleur MIDI
+ * Sélectionner l'octave avec interrupteur à 8 voies
+ * Jouer des notes
