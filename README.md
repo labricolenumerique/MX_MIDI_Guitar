@@ -1,6 +1,14 @@
 # MX MIDI Guitar
 [Adafruit MX MIDI Guitar](https://learn.adafruit.com/mx-midi-guitar)
 
+
+## Présentation
+
+### Vidéos
+
+  *
+
+
 ## Préparation
 
 ### Composants
@@ -10,6 +18,12 @@
  * [Adafruit Grand Central M4 Express featuring SAMD51](https://www.digikey.fr/en/products/detail/adafruit-industries-llc/4084/10107217)
  * [Adafruit LIS3DH Triple-Axis Accelerometer](https://www.digikey.fr/en/products/detail/adafruit-industries-llc/2809/5774319)
  * [Mini 8-Way Rotary Selector Switch - SP8T](https://www.digikey.fr/en/products/detail/adafruit-industries-llc/2925/17282424)
+ * Potentiometer with Built In Knob - 10K ohm
+ * Panel Mount 10K potentiometer
+ * Mini Panel Mount SPDT Toggle Switch
+ * Micro Switch w/Lever - 2 Terminal
+ * Panel Mount Extension USB Cable - Micro B Male to Micro B Female
+ * USB A to Micro B Cable - 2 meter long
 
 ### Impression 3D
 
@@ -43,6 +57,16 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
  * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
 ## Programmation
+
+### Code
+
+  * [Dépôt Git](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
+
+  * Brancher la carte **Grand Central M4 Express** au PC
+  * Télécharger CircuitPython sur la page [Grand Central M4 Express](https://circuitpython.org/board/grandcentral_m4_express)
+  * Installer circuit 
+  * Télécharger le [code.py](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
+  * Copier le fichier code.py sur le lecteur de disque de la carte
 
 ### Fonctionnement
 **Fonctionnement du code**
