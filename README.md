@@ -83,9 +83,9 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
   * Mettre la carte en mode `bootloader`
   * Installer CircuitPython sur la carte
   * Redémarrer la carte
-  * Télécharger le [code.py](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
-  * Copier le fichier code.py sur le lecteur de disque de la carte
-  * Exécuter le code avec l'[IDE Thonny](https://thonny.org)
+  * Télécharger l'archive [MX_MIDI_Guitar.zip](https://learn.adafruit.com/elements/3058738/download?type=zip)
+  * Extraire les fichiers de l'archive sur le lecteur de disque de la carte
+  * Exécuter le fichier Python `code.py` avec l'[IDE Thonny](https://thonny.org)
 
 ### Fonctionnement
 **Fonctionnement du code**
