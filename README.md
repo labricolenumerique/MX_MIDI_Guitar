@@ -22,10 +22,12 @@
 Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fournit une référence visuelle pour le câblage des composants.
 
 * Câblage de l'[accéléromètre à trois axes](https://learn.adafruit.com/mx-midi-guitar/install-the-lis3dh)
+* Câblage des [touches MX](https://learn.adafruit.com/mx-midi-guitar/wiring-mx-switches)
 
 ### Assemblage des éléments
 
  * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
+ * [Assemblage du bandeau LED](https://learn.adafruit.com/mx-midi-guitar/strip-assembly)
  * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
  * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
