@@ -23,6 +23,9 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
  * Item 1
 
+### Assemblage des éléments
+
+ * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
 ## Programmation
 
