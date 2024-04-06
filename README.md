@@ -40,6 +40,7 @@ Inspiré par le tristement célèbre contrôleur Guitar Hero, ce projet transfor
 ### Impression 3D
 
  * [Pièces imprimées en 3D](https://learn.adafruit.com/mx-midi-guitar/3d-printing)
+   * [Archive](https://cdn-learn.adafruit.com/downloads/zip/3058738/MX_MIDI_Guitar.zip?timestamp=1712414477)
 
 ## Assemblage
 
