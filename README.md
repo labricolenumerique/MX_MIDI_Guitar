@@ -23,6 +23,7 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ### Assemblage des éléments
 
+ * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
  * [Assemblage carte centrale](https://learn.adafruit.com/mx-midi-guitar/assemble-grand-central)
  * [Assemblage final](https://learn.adafruit.com/mx-midi-guitar/final-assembly)
 
