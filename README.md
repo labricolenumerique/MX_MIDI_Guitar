@@ -75,13 +75,17 @@ Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fourni
 
 ### Code
 
-  * [Dépôt Git](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
+[Dépôt Git](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
 
+**Etapes**
   * Brancher la carte **Grand Central M4 Express** au PC
   * Télécharger CircuitPython sur la page [Grand Central M4 Express](https://circuitpython.org/board/grandcentral_m4_express)
-  * Installer circuit 
+  * Mettre la carte en mode `bootloader`
+  * Installer CircuitPython sur la carte
+  * Redémarrer la carte
   * Télécharger le [code.py](https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/MX_MIDI_Guitar/code.py)
   * Copier le fichier code.py sur le lecteur de disque de la carte
+  * Exécuter le code avec l'[IDE Thonny](https://thonny.org)
 
 ### Fonctionnement
 **Fonctionnement du code**
