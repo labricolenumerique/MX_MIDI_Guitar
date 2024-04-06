@@ -21,6 +21,8 @@
 
 Le [diagramme](https://learn.adafruit.com/mx-midi-guitar/circuit-diagram) fournit une référence visuelle pour le câblage des composants.
 
+* Câblage de l'[accéléromètre à trois axes](https://learn.adafruit.com/mx-midi-guitar/install-the-lis3dh)
+
 ### Assemblage des éléments
 
  * [Assemblage des composants sur les panneaux](https://learn.adafruit.com/mx-midi-guitar/panel-mount-components)
